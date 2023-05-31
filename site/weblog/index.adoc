@@ -1,0 +1,7 @@
+= Weblog
+
+My thoughts in written form.
+
+For now, this site is still in much flux, so there isn't anything here.
+See link:/[the index] for a reverse-chronological list of posts.
+You can also follow the blog with an Atom feed reader at link:./feed.xml[].
