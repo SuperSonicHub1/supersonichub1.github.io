@@ -1,3 +1,6 @@
+---
+override:tags: []
+---
 = Weblog
 
 My thoughts in written form.
