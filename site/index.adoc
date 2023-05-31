@@ -1,0 +1,20 @@
+---
+layout: index.njk
+---
+= Kyle Anthony Williams Computer Company
+Kyle Williams <kyle.anthony.williams2@gmail.com>
+
+This is the humble hompage of Kyle Anthony Williams, a computer scientist
+and electrical engineer in training whose ideas walk the borderline of clever
+and stupid.
+
+This website acts primarily as a weblog, but also hosts links to
+my presence on the rest of the internet as well as personal metadata
+which I'd like to share.
+
+This site isn't the prettiest thing at the moment, but that's because I'm
+developing a good chunk of it from scratch in
+https://github.com/supersonichub1/supersonichub1.github.io/[the open]
+with https://www.11ty.dev/[11ty]!
+I actually like simpler designs like this anyway, so the site's going to look like
+this for the forseeable future.

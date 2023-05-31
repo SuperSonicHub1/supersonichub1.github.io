@@ -1,0 +1,31 @@
+{
+  "name": "supersonichub1.github.io",
+  "version": "1.0.0",
+  "description": "My website!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supersonichub1/supersonichub1.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supersonichub1/supersonichub1.github.io/issues"
+  },
+  "homepage": "https://github.com/supersonichub1/supersonichub1.github.io#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
+    "cheerio": "^1.0.0-rc.12",
+    "eleventy-plugin-asciidoc": "^2.0.0",
+    "markdown-it-footnote": "^3.0.3",
+    "node-fetch": "^2.6.7"
+  }
+}

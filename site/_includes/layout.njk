@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href='/css/styles.css' />
+		<link rel="stylesheet" type="text/css" href='/css/asciidoctor.css' />
+		<link rel="stylesheet" type="text/css" href='/css/prism.min.css' />
+		<link rel="alternate" type="application/atom+xml" href="/weblog/feed.xml" title="The Weblog of KAWCCO" />
+		<title>{{ title }} | KAWCCO</title>
+	</head>
+	<body>
+		<header>
+			<nav>
+				<span><a href='/'>KAWCCO</a></span>
+				<!-- Vertical divider -->
+				<!-- <span style="padding-right: 0.5em; border-right:1px solid;"></span> -->
+				<ul>
+					<li><a href='/weblog'>Weblog</a></li>
+					<li><a href='/media-consumption'>Media Consumption</a></li>
+					<li><a href='/about'>About</a></li>
+					<li><a href='https://github.com/SuperSonicHub1'>GitHub</a></li>
+				</ul>
+			</nav>
+		</header>
+		<hr>
+		<main>
+			<h1>{{ title }}</h1>
+			{{ content | safe }}
+			{% block extracontent %}{% endblock %}
+		</main>
+		<hr>
+		<footer>
+			<p>
+				All content by Kyle Anthony Williams copyright $CURRENT_YEAR.
+			</p>
+		</footer>
+	</body>
+</html>
