@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/supersonichub1/supersonichub1.github.io#readme",
   "dependencies": {
-    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
     "cheerio": "^1.0.0-rc.12",
