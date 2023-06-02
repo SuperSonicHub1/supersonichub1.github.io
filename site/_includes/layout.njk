@@ -26,13 +26,17 @@
 		<hr>
 		<main>
 			<h1>{{ title }}</h1>
+			{% if date and date.toISOString %}
+			<p>written <time datetime="{{ date | dateToRfc3339 }}">{{ date }}</time></p>
+			{% endif %}
 			{{ content | safe }}
 			{% block extracontent %}{% endblock %}
 		</main>
 		<hr>
 		<footer>
 			<p>
-				All content by Kyle Anthony Williams copyright $CURRENT_YEAR.
+				All content, unless otherwise stated, by Kyle Anthony Williams, copyright $CURRENT_YEAR,
+				and licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
 			</p>
 		</footer>
 	</body>
