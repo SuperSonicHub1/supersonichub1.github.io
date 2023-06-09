@@ -6,7 +6,9 @@ const pluginRss = require("@11ty/eleventy-plugin-rss"),
 
 module.exports = eleventyConfig => {
 	eleventyConfig.addPlugin(pluginRss)
-	eleventyConfig.addPlugin(eleventyAsciidoc)
+	eleventyConfig.addPlugin(eleventyAsciidoc, {
+		template_dir: `${__dirname}/asciidoc-templates`,
+	})
 	eleventyConfig.addPlugin(syntaxHighlight)
 	eleventyConfig.setLibrary(
 		"md",
