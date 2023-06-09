@@ -1,0 +1,17 @@
+---
+# https://github.com/11ty/eleventy-base-blog/blob/main/content/tags-list.njk
+permalink: /tags/
+layout: layout.njk
+title: Tags
+---
+
+{% set number_of_tags = collections | length  %}
+<p>{{ number_of_tags }} tag{% if number_of_tags != 1 %}s{% endif %}</p>
+
+<ul>
+{% for tag, posts in collections %}
+	{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+	{% set number_of_posts = posts | length  %}
+	<li><a href="{{ tagUrl }}">{{ tag }}</a> ({{ number_of_posts }} post{% if number_of_posts != 1 %}s{% endif %})</li>
+{% endfor %}
+</ul>

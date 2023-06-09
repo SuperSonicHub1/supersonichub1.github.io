@@ -19,3 +19,27 @@ nav > ul > li:not(:last-child) {
 nav a {
 	color: initial;
 }
+
+/* Tags */
+.tags > ul, .tags > ul > li {
+	display: inline;
+}
+
+/* Undo Asciidoctor CSS */
+.tags ul {
+	margin-left: initial;
+}
+
+/* https://www.w3schools.com/howto/howto_css_badge.asp */
+.tags ul li {
+	background-color: hsl(240, 3%, 60%);
+	color: white;
+	padding: 4px 8px;
+	text-align: center;
+	border-radius: 5px;
+}
+
+/* No color on link */
+.tags a {
+	color: inherit;
+}

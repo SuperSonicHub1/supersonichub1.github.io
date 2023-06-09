@@ -1,0 +1,24 @@
+---
+# https://www.11ty.dev/docs/quicktips/tag-pages/
+# https://github.com/11ty/eleventy-base-blog/blob/main/content/tags.njk
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+layout: layout.njk
+eleventyComputed:
+  title: "Tag: {{ tag }}"
+permalink: "/tags/{{ tag }}/"
+---
+{% set taglist = collections[tag] %}
+{% set number_of_posts = taglist | length %}
+
+<p>{{ number_of_posts }} post{% if number_of_posts != 1 %}s{% endif %}</p>
+<ul>
+{% for post in taglist %}
+	<li>
+		<a href="{{post.url | absoluteUrl(metadata.url)}}">{{ post.data.title }}</a>
+		(posted {{ post.date }})
+	</li>
+{% endfor %}
+</ul>
