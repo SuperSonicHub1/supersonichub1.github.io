@@ -1,0 +1,58 @@
+---
+date: 2023-06-11T02:17:15Z
+tags:
+- meta
+- writing in june 2023
+- rant
+---
+= Writing in June Status Update: Blogging Daily is Hard
+
+My challenge to get this blog set up and post a thing every day has certainly… been going.
+
+
+== Getting the Weblog Set Up
+
+This part has gone quite swimmingly.
+I love the theme of the blog, it looks fire on mobile, and cool features I want to add
+like data logging through media consumtpion and tagging are really coming together.
+Whenever I am networking with someone, I finally now have a place I can tell them to
+go to in order to learn more about me that's significantly more approachable than my GitHub.
+There is more stuff I want to do, like log more of my media consumption habits,
+add a résumé page, add OpenGraph metadata, get images and video set up, and much more.
+All of those things should be a lot of fun to add, and should make for good posts,
+but I don't want everything I write here to be "meta"-tagged.
+Speaking of posting…
+
+== Writing Daily is Hard, Man
+
+Part of this is just my environment.
+I'm starting to get into the flow of working a 9 to 5 again, my high school won't let me go,
+the onboarding process for my college is quite laborious, and a bunch of "adulting" stuff
+is randomly popping onto my list of priorities.
+Excuses, excuses, excuses.
+
+Part of it is also me.
+I'm very scatterbrained when left to my own devices, I leave writing
+these dang things to too late in the night, I lack a good system for writing articles away
+from my desktop, and I'm not using my weekend to develop a backlog of articles.
+
+Plus, in order to write daily, you need to have a balance between long and short-form content.
+The former is easy to write over multiple days or a weekend, but then if you spend your entire
+day writing a long blog, you then have no post.
+If you focus only on writing short-form content, you then run out of ideas that can be explored
+in a few hours and then will end up creating a dry streak, which I'm in right now.
+It's been 10 days, and, including this post, I'll only have 6 posts.
+
+To me, the solution is clear: just spend more time writing, man!
+I'll have to work on getting to a level of consistency I'm happy with. :)
+I also need to lower my standards for a post just a smidge more; if I am out of ideas at 11PM,
+I need to do that one exercise in English class where you just keep writing out your mind,
+even if the only thing on the dome is "I can't think of anything."
+I also plan to mine some more Discord conversations to see if any of them will make good
+writing; I have a habit of writing paragraphs when communicating in text channels. :)
+
+== The Future™
+
+After June is over, I'm definitely going to move to a "write at least two posts a week" schedule
+unless I both hae a breakthrough in efficiency *and* really enjoy doing this.
+We shall see.
