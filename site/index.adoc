@@ -4,7 +4,7 @@ layout: index.njk
 = Kyle Anthony Williams Computer Company
 Kyle Williams <kyle.anthony.williams2@gmail.com>
 
-This is the humble hompage of Kyle Anthony Williams, a computer scientist
+This is the humble homepage of Kyle Anthony Williams, a computer scientist
 and electrical engineer in training whose ideas walk the borderline of clever
 and stupid.
 
