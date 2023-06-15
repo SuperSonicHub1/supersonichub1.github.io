@@ -2,10 +2,10 @@
 date: 2023-06-11T02:17:15Z
 tags:
 - meta
-- writing in june 2023
+- blogging in june 2023
 - rant
 ---
-= Writing in June Status Update: Blogging Daily is Hard
+= Blogging in June Status Update: Blogging Daily is Hard
 
 My challenge to get this blog set up and post a thing every day has certainly… been going.
 

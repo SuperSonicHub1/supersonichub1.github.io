@@ -1,6 +1,11 @@
 ---
 title: '"Y4ND3RE:" A Review'
 date: 2021-08-25T19:19:00.000Z
+tags:
+- music
+- review
+- projekt melody
+- interlabel
 ---
 <!-- # "Y4ND3RE:" A Review -->
 

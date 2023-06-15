@@ -1,5 +1,11 @@
 ---
 date: 2023-06-02T22:33:52Z
+tags:
+- meta
+- programming
+- javascript
+- web dev
+- blogging in june 2023
 ---
 = Hacking Together a Blog
 

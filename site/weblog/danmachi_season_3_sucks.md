@@ -1,6 +1,9 @@
 ---
 title: Is It Just Me, or Did "Is It Wrong to Try to Pick Up Girls in a Dungeon? III" Really Suck?
 date: 2021-08-27T00:31:00.000Z
+tags:
+- anime
+- review
 ---
 
 <!-- # Is It Just Me, or Did *Is It Wrong to Try to Pick Up Girls in a Dungeon? III* Really Suck? -->

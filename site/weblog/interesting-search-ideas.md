@@ -1,6 +1,10 @@
 ---
 title: Interesting Search Ideas
 date: 2022-05-27T00:00:00.000Z
+tags:
+- computer science
+- software design
+- theory crafting
 ---
 <!-- # Interesting Search Ideas -->
 that I hope to pursue some day

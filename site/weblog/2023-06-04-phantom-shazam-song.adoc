@@ -1,5 +1,10 @@
 ---
 date: 2023-06-04T22:37:48Z
+tags:
+- music
+- computer science
+- internet
+- blogging in june 2023
 ---
 = The Case of the Phantam Shazam Song
 

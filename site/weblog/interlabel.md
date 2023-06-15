@@ -1,6 +1,11 @@
 ---
 title: What in the World is INTERLABEL?
 date: 2021-09-16T01:51:00.000Z
+tags:
+- music
+- investigation
+- javascript
+- interlabel
 ---
 <!-- # What in the World is INTERLABEL? -->
 
@@ -24,7 +29,7 @@ The site seems to also have an unfinished shopping feature, with a forever cart 
 
 ## [The YouTube Channel][youtube_channel]
 
-The channel was created on Monday, January 27, 2020, 22:00:00 GMT according to the [YouTube API][invidious_channel]. The channel description elaborates on the existence of Interlabel.
+The channel was created on Monday, January 27, 2020, 22:00:00 GMT according to the [YouTube API][invidious_channel]. The channel description elaborates on the existence of Interlprogrammingabel.
 
 > INTERLABEL is the nomad music label based in Tokyo, Japan.
 >

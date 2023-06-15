@@ -1,6 +1,12 @@
 ---
 title: Criticisms of "Do Fans of Cartoon Porn Stars Hate (Real) Women?"
 date: 2021-08-25T19:19:00.000Z
+tags:
+- anime
+- letter
+- feminism
+- misogony
+- projekt melody
 ---
 <!-- # Criticisms of "Do Fans of Cartoon Porn Stars Hate (Real) Women?" -->
 

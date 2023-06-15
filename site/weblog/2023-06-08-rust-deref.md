@@ -1,6 +1,11 @@
 ---
 title: Easy Type Encapsulation in Rust with the std::ops::Deref Trait
 date: 2023-06-08T04:03:46Z
+tags:
+- blogging in june 2023
+- programming
+- rust
+- competitive programming
 ---
 
 My friend Jair Santana shared with me

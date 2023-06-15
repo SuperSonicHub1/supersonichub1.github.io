@@ -1,6 +1,9 @@
 ---
 title: The Provocateur
 date: 2022-11-08T03:04:00.000Z
+tags:
+- writing
+- tropes
 ---
 <!-- # The Provocateur -->
 an analysis of the popular extension to the *tsundere* archetype in Japanese cartoons

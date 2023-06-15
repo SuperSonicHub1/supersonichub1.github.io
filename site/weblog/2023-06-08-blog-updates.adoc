@@ -3,6 +3,7 @@ date: 2023-06-09T00:03:17Z
 tags:
 - meta
 - programming
+- blogging in june 2023
 ---
 = Blog Updates: Syntax Highlighing and Tags
 

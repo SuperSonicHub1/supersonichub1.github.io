@@ -1,5 +1,7 @@
 ---
 date: 2021-10-22T19:28-05:00
+tags:
+- writing
 ---
 = Bullet Points Are Awesome!
 
@@ -14,8 +16,8 @@ be in bullet points!
 *** third level
 **** fourth, should probably never go here
 * quotes are easy
-** ``I got, I got, I got, I got— / Loyalty, got royalty inside my DNA''
-*** Kendrick Lamar, ``DNA.''
+** "I got, I got, I got, I got— / Loyalty, got royalty inside my DNA"
+*** Kendrick Lamar, "DNA."
 * thoughts just flow out of me naturally
 * it’s just a steady stream of consciousness
 * you want a list? just make one

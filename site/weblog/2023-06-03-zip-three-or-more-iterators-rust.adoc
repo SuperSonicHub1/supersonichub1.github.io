@@ -5,6 +5,8 @@ tags:
 - python
 - programming language design
 - tutorial
+- programming
+- blogging in june 2023
 ---
 = How does one zip three or more iterators into a flat tuple in Rust?
 or, "How do I replicate Python's zip function in Rust?"
