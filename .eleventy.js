@@ -25,6 +25,9 @@ module.exports = eleventyConfig => {
 	// Copy CSS
 	// https://michaelsoolee.com/add-css-11ty/
 	eleventyConfig.addPassthroughCopy(`${input}/css`)
+	// Copy media
+	eleventyConfig.addPassthroughCopy(`${input}/media`)
+	
 	return {
 		passthroughFileCopy: true,
 		dir: {
