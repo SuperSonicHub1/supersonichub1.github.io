@@ -3,6 +3,10 @@ layout: layout.njk
 ---
 = On Kyle Anthony Williams
 
+
+.Ya boi.
+image::/media/about/profile.jpg[A sepia-toned self-portrait of me; I'm sitting down in front of a door.]
+
 Here are a few things you may want to know about me:
 
 * I am male, a man, and go by he/him/his pronouns.

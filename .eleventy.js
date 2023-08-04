@@ -27,6 +27,8 @@ module.exports = eleventyConfig => {
 	eleventyConfig.addPassthroughCopy(`${input}/css`)
 	// Copy media
 	eleventyConfig.addPassthroughCopy(`${input}/media`)
+	// Copy résumé
+	eleventyConfig.addPassthroughCopy(`${input}/resume.pdf`)
 	
 	return {
 		passthroughFileCopy: true,
