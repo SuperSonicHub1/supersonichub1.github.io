@@ -1,0 +1,38 @@
+---
+date: 2023-12-26T14:56:24Z
+tags:
+- mit
+- school
+---
+= MIT: The First Semester
+
+__Below are some neatened up expressions of my first semester at MIT I wrote in our class' Discord server on 2023 M12 08.__ 
+
+TL;DR: Life is good! Really good! Below are some highlights.
+
+I get great sleep whenever I don't get sucked into some trash manga or LN. footnote:[https://j-novel.club/series/yuri-tama-from-third-wheel-to-trifecta[__Yuri Tama__] really is the spitting image of "trash concept, excellent execution" LOL. Cannot wait for volume 4.]
+I'm doing quite well in all my link:#_appendix_academics[classes] (more on this later).
+New Vassar is a great home and I love my roommate. footnote:[To generalize: how is everyone I know so multi-talented and funny?! It's insane.]
+Cambridge is such a beautiful and accessible city (scootering is based here, NYC needs sidewalk bike lanes).
+Crufting is such a fun side-hustle. footnote:[The art of rummaging through the recycling bins of one of the world's biggest research institutions; will write about this at some point.]
+I've been using my free time to begin developing a theory of hyperscience, the intersection of a lot of stuff I've been reading and thinking about since high school.
+My job writing educational material under https://mitadmissions.org/[the Admissions Office] and my research under https://d-lab.mit.edu/[D-Lab] have been great (do make time for a job in your schedule if you haven't; link:/weblog/2023-06-10-beginning-to-adult/[having money is so freeing]).
+I've already created so many great mentor relationships with students, staff, and alumni on campus, all of which have helped me academically and think about what I actually want to do with myself after I get my diploma.
+Man, I've just done so much cool stuff here: building https://github.com/SuperSonicHub1/MuseScribe/[a sheet music search app] at https://hackmit.org/[HackMIT], DJing to an audience of me plus my family at https://wmbr.org/cgi-bin/show?id=8060[WMBR], hiking with my https://terrascope.mit.edu/[first-year community], https://mta.mit.edu/events/famle-presents-patchwork-cyborg-telenovela[performing music for the first time ever] (!!!), https://terrascope2027.mit.edu/[absolutely acing a group project with 60 people] (!!!), teaching web APIs to high school students during https://esp.mit.edu/learn/Splash/2023/catalog#class_15684[Splash!], hauling 20 office PCs to Walker Memorial in the middle of the night, creating a home media setup in my room…
+even the small moments, like getting addicted to __Psycho-Pass__, chatting with lecturers about real analysis and alternative logic systems during office hours, getting groceries while listening to Schrödinger… footnote:[Looking back on this as I edit, I'm starting to realize how much I did in only three months; this semester has easily been the most efficient period of my life.]
+
+Man, I am so thankful God put me here. I know, I know, I deserve to be here cause I worked hard and all that jazz, but it still takes a heck of a lot of luck to be so repeatedly blessed.
+If everything goes to plan, I can keep this momentum going. Looks like it's going to be darn hard to get bored of being here.
+
+== Appendix: Academics
+
+It seems like everyone told me that MIT academically was going to be really hard academically: faculty, staff, the "institutional mythos," advisors and teachers from high school, and especially students who wrote Admissions blogs.
+The one that stuck with me the most was https://mitadmissions.org/blogs/entry/the-pnr-mindset-vs-the-grindset-mindset/[Teresa's].
+
+Out of extreme concern for my mental well-being, I took many precautionary measures. I scheduled weekly meetings with my academic advisor so I could have time every week to reflect and problem solve. I attended office hours for all my classes religiously, basically just doing my homework there (because almost no one goes, you can get quite a lot of individual attention :)). I managed my life with six calendars to avoid conflicts and keep my responsibilities explicit (yes, I scheduled out meals; eating is more important than going to class). I dedicated my time to only one club (can't believe at some point I was planning to join three). I punted chem and bio to sophomore year to further immerse myself in the arts (and to make space for https://terrascope.mit.edu/portfolio_page/12-000/[12.000]), and deciced against https://math.mit.edu/academics/undergrad/first/calculus.php[18.0(1/2)A] (couldn't even take the class because I accidentally bombed the math self-assessment; glad I did) and for 8.01L (one of my favorite lectures due to the insanely small class size; https://openlearning.mit.edu/mit-faculty/residential-digital-innovations/teal-mitx[TEAL] also works quite nicely with my brain).
+
+I guess because of all the above and my years of street-fighting school in PWIs, that I just never got hosed.
+There were of course times where I would walk into my physics lecture after having done the learning sequences last night and just be like "guys, what" and the proof for completeness in quantifier logic we just covered in http://student.mit.edu/catalog/search.cgi?search=24.141[24.141] was borderline nonsensical footnote:[https://www.jstor.org/stable/2267044[Henkin models] are crazy. Also, someone really aught to make a good webpage explaining this proof; http://www.benbrastmckie.com/[my professor] is planning to share our textbook soon, so perhaps that will do the trick!], but nothing I could never handle.
+
+I do worry that I did OK because all the classes I took were "easy" (https://math.mit.edu/academics/undergrad/first/calculus.php[18.01], http://student.mit.edu/catalog/m8a.html#8.01L[8.01L], https://terrascope.mit.edu/portfolio_page/12-000/[12.000], http://student.mit.edu/catalog/search.cgi?search=24.141[24.141], https://mta.mit.edu/music/performance/famle-mit-laptop-ensemble[21M.470]),  but I must also recall that I spend an extra ~13 hours on extracurriculars and work; my work was previously mentioned., so my schedule wasn't light by any means.
+I'll see how I fare.
