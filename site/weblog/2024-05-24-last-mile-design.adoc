@@ -1,0 +1,53 @@
+---
+date: 2024-05-24T15:12:40Z
+tags:
+- design
+---
+= Last-Mile Design
+
+After finishing up my first year of college, I finally have the time to discuss some design principles I've been chatting about with colleages recently.
+
+
+== Shipping Logistics
+
+Shipping stuff around the world is quite a complex ordeal.
+If you, for example, buy a phone off of Amazon and ask it to be shipped to New York, that device is likely to go halfway around the world across multiple modes of transportation before it gets you.
+This complexity, counter-intuitively, is what enables mail to get to us from almost anywhere at such a fast pace and cheap price.
+Here's a sketch of that phone's journey: a freighter from Shanghai to Los Angeles; a plane from Los Angeles to New York City; and then a delivery van from a fulfillment center to one's home; all connected by trucks driving the phone, one of thousands in a shipment along many, many other goods, from port to port.
+Each mode of transportation is serving a specfic purpose in that segment of the phone's delivery: how can it cover as much distance as cheaply as possible?
+
+== Last-Mile Delivery and Design
+
+How does this connect to design?
+The key is in the last leg of our phone's journey, in the delivery van.
+By the time the phone reaches the fulflllment center, it's already easily covered 99% of the distance from the factory to your house; through a macro lens, the remaining distance to your phone's ultimate destination is a rounding error.
+However, 99% is nowhere near good enough; the phone still isn't in your hands!
+This at-first seeminly inconsequential leg is so important to shipping companies that it has a special name: https://en.wikipedia.org/wiki/Last_mile_(transportation)[the last mile].
+This leg is the most challenging because of the great precision necessary.
+With a freighter, because everyone needs to get their stuff from China to the U.S., it's really easy to but all different kinds of things to be put on one ship, making it cheap.
+This generality exponetially narrows as it gets closer to your house due to various compounding factors; it only makes sense, for example, for the delivery van to only deliver stuff to you and others in your neighborhood.
+
+A pattern similar to the phone's delivery can be seen in the writing of a presentation.
+You might at first have an inkling of an idea; to develop it, you spend a lot of time bookmarking relevant blogs, scribbling notes, pitching it to others, and whiteboarding.
+You then might then shift to an outlining tool so you can solely focus on content and structure.
+Finally, as the time to give the presentation comes, you might port your presentation to a graphical presentation program like LibreOffice Impress or PowerPoint, making your words visually pleasing and supporting them images and diagrams.
+
+Impress, in this case is much like the delivery van; it is the "vehicle" of the "last-mile design" of your presentation.
+It enables you much precision about the exact way one might format and present a talk, but should definitely be the last and shortest leg of the long journey it takes to create a presentation.
+The background color of your slidedeck is irrelevant to understanding if the arguemnts of your presentation are valid, or even to practicing your presentation, for the most part.
+
+This then begs the following question: why do I regularly use only tools like Google Slides or Google Docs to do knowledge work from start to finish, instead of engaging in what could be a much more more efficient process by switching between tools for specific parts of my process?
+
+== The Right Tool for the Job
+
+
+== Unbundling the LA
+
+- Google Slides
+- Creative Cloud
+- IDE/text editor war and the LSP protocol
+
+== Sources
+
+* “Amazon facilities and warehouses,” About Amazon. Accessed: May 24, 2024. [Online]. Available: https://www.aboutamazon.com/workplace/facilities
+* K. Tarasov, “Amazon is making its own containers and bypassing supply chain chaos with chartered ships and long-haul planes,” CNBC. Accessed: May 24, 2024. [Online]. Available: https://www.cnbc.com/2021/12/04/how-amazon-beats-supply-chain-chaos-with-ships-and-long-haul-planes.html
