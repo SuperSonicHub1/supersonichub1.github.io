@@ -51,3 +51,4 @@ This then begs the following question: why do I regularly use only tools like Go
 
 * “Amazon facilities and warehouses,” About Amazon. Accessed: May 24, 2024. [Online]. Available: https://www.aboutamazon.com/workplace/facilities
 * K. Tarasov, “Amazon is making its own containers and bypassing supply chain chaos with chartered ships and long-haul planes,” CNBC. Accessed: May 24, 2024. [Online]. Available: https://www.cnbc.com/2021/12/04/how-amazon-beats-supply-chain-chaos-with-ships-and-long-haul-planes.html
+
