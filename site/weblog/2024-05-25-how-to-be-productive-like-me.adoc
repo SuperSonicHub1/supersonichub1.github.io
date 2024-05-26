@@ -3,14 +3,16 @@ date: 2024-05-25T18:33:00Z
 tags:
 - design
 ---
-= How to Be Productive Like Me
+= How to Be Productive in College Like Me
 
 Whenever I start talking to people about my plans, ideas, and achievements, I regularly suprise them quite because I seem to be much more productive than average.
 I downplay these aspects of my life in conversation, a bad habit of mine according to my mentors.
 I do this in part because I'm a tad bashful when it comes to praise and to avoid over-aggranization; my peers, friends, and colleagues are quite respectable in many aspects.
 I also do this in part because I am not "built different;" I am where I am because I have developed a skillset for being productive and happy, and I believe this process can be replicated.
 In this post, I'll iterate over some the techniques, tools, and principles I use to do what I do.
+I hope to be descriptive, not prescriptive in the advice I give; I don't know every facet of your life and so it's naïve for me to say I know what's best for you with some exceptions.
 Everyone's goals and brains are different than mine, so I don't expect everything to translate, but I hope that laying out my process can make me look a little less special and inspire you to become happier and more knowledgeable. :)
+
 
 == Mental health counseling
 
@@ -25,8 +27,7 @@ Everyone's goals and brains are different than mine, so I don't expect everythin
 - individual counseling let me check in with myself and plan for the week ahead
 - attending counseling like clockwork is crucial to getting the most out of it; prioritize it over most everything else
 - this was especially important to get through a depressive episode I went through in the late winter due to inconsistent sleep and not prioritizing socializing
-- if you can get access to free counseling through your school, health insurance, or other means, it's a no-brainer
-- it's an easy way to become proactive about your mental health
+- if you can get access to free counseling through your school, health insurance, or other means, it's an easy way to become proactive about your mental health
 
 == Reflection
 
@@ -48,6 +49,8 @@ Everyone's goals and brains are different than mine, so I don't expect everythin
 You need to get at least 8 hours of sleep every night at around the same time every night in order to function properly.
 Enough said.
 Sleep, like any other mental health tool, should be prioritized over most things.
+If you need to pick between handing in an assignment incomplete or sleeping, pick sleep!
+This is something I've done numerous times and is OK; you'll have other assignments which can allow you to make up for your losses.
 The "inability" to go to sleep because of homework or exams is an excuse for not properly managing one's time, and a poor one at that since being sleep deprived means you're are not at your mental peak, and so will have subpar output.
 We will discuss time management tools in a later section.
 Going to bed because of socializing or wanting to work on a cool project is a bit more relatable: these activities are very important to having good mental health, and I've stayed up late talking about math, design, and feelings many times.
@@ -57,8 +60,6 @@ If this isn't possible, try having an accountability buddy to assist you in goin
 Sleeping away from your phone and disabiling some of its functionality at night are good techniques for getting good sleep, but are ones I'm still practicing.
 
 == Taking regular breaks
-
-
 
 == Building a support system
 
