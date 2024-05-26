@@ -1,0 +1,71 @@
+---
+date: 2024-05-25T18:33:00Z
+tags:
+- design
+---
+= How to Be Productive Like Me
+
+Whenever I start talking to people about my plans, ideas, and achievements, I regularly suprise them quite because I seem to be much more productive than average.
+I downplay these aspects of my life in conversation, a bad habit of mine according to my mentors.
+I do this in part because I'm a tad bashful when it comes to praise and to avoid over-aggranization; my peers, friends, and colleagues are quite respectable in many aspects.
+I also do this in part because I am not "built different;" I am where I am because I have developed a skillset for being productive and happy, and I believe this process can be replicated.
+In this post, I'll iterate over some the techniques, tools, and principles I use to do what I do.
+Everyone's goals and brains are different than mine, so I don't expect everything to translate, but I hope that laying out my process can make me look a little less special and inspire you to become happier and more knowledgeable. :)
+
+== Mental health counseling
+
+- strong mental mental health is foundational to being productive
+- you can't work through depression, anxiety, stress, exhaustion; these are emotions *everyone* goes through
+- to acheive this, one must build a toolkit to observe and manage their mental health
+- an important part of my toolkit is taking advantage of mental health counseling
+- a high school senior of mine urged me to take advantage of counseling when I got to college, and boy am I glad I listened
+- I am privledged to have access to free group and individual telecounseling as an https://www.amazonfutureengineer.com/[Amazon Future Engineer] through https://www.tbh.us/[tbh], especially since counseling https://health.mit.edu/services/mental-health-counseling[through MIT Health] during the school year fills up quickly and has long waitlists 
+- the core of counseling is getting an hour every week to _not_ do academic work and focus entirely on my mental state
+- group counseling helped me learn about the experiences of students at different institutions, let me engage in emotional reflection and _problem-solving_, find the vocabulary to explain my emotions and identify if I was down
+- individual counseling let me check in with myself and plan for the week ahead
+- attending counseling like clockwork is crucial to getting the most out of it; prioritize it over most everything else
+- this was especially important to get through a depressive episode I went through in the late winter due to inconsistent sleep and not prioritizing socializing
+- if you can get access to free counseling through your school, health insurance, or other means, it's a no-brainer
+- it's an easy way to become proactive about your mental health
+
+== Reflection
+
+- I've tried getting into reflection multiple times through journaling, but it never really worked because no one ever made me reflect, even though doing so is super valuable!
+- taking the time to evaluate the current state of affairs, record what has worked for you, and chart the next segment of your course is such a powerful feedback loop (the close reader will realize that these benefits overlap greatly with the benefits of counseling as described in the previous section)
+- I am privledged to have had two classes that assigned regular reflections this year: https://terrascope.mit.edu/[Terrascope]'s https://terrascope.mit.edu/portfolio_page/12-000/[12.000] and https://www.psfc.mit.edu/fusars[FUSars]' http://student.mit.edu/catalog/search.cgi?search=22.S097[22.S097]
+- having reflections be homework has been a blunt but effective way of getting me to do them, and boy has it worked wonders
+- this past year has been the most I've ever written (yes, my reflections will be back-dated and posted here at some point)
+- writing has made it a lot easier to convey my thoughts to others since it's already gone through a first-pass, which is useful for discussion with mentors
+- it's been a great way to get ideas I've bee deliberating out of my head and into a more refined and referrable state
+- getting an hour to not worry about academics gives me time to breathe (sensing a pattern?)
+- my plans for reflection in the future are still a WIP
+    - I hope to continue to reflect over the summer with FUSars
+    - this blog is a great way to occasionally reflect, but no one makes me
+    - finding ways to make myself blog will be important future work
+
+== Sleep
+
+You need to get at least 8 hours of sleep every night at around the same time every night in order to function properly.
+Enough said.
+Sleep, like any other mental health tool, should be prioritized over most things.
+The "inability" to go to sleep because of homework or exams is an excuse for not properly managing one's time, and a poor one at that since being sleep deprived means you're are not at your mental peak, and so will have subpar output.
+We will discuss time management tools in a later section.
+Going to bed because of socializing or wanting to work on a cool project is a bit more relatable: these activities are very important to having good mental health, and I've stayed up late talking about math, design, and feelings many times.
+Still, sleep is mostly irreplacable.
+If you find you're a night owl, try moving around your schedule so you can wake up later.
+If this isn't possible, try having an accountability buddy to assist you in going to bed on time.
+Sleeping away from your phone and disabiling some of its functionality at night are good techniques for getting good sleep, but are ones I'm still practicing.
+
+== Taking regular breaks
+
+
+
+== Building a support system
+
+== Communicating with others
+
+== Know your responsibilites and priorities
+
+== Gaining knowledge
+
+== Conclusion
