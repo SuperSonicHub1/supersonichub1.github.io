@@ -1,0 +1,110 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/sinaatalay/rendercv/main/schema.json
+cv:
+  name: Kyle Anthony Williams
+  location: Brooklyn, NY; Cambridge, MA
+  email: kyle.anthony.williams2@gmail.com
+  website: https://kawcco.com/
+  social_networks:
+    - network: GitHub
+      username: supersonichub1
+    - network: ORCID
+      username: '0009-0001-3193-328X'
+  sections:
+    introduction:
+      - Kyle Anthony Williams (he/him/his) is (primarily) a computer scientist,
+        currently studying CS at the Massachusetts Institute of Technology.
+    education:
+      - institution: Massachusetts Institute of Technology
+        area: Electrical Engineering and Computer Science (Canidate)
+        degree: BS
+        start_date: 2023-09
+        end_date: present
+    experience:
+      - company: Amazon Web Services
+        position: Software Development Engineer Intern, Amazon Detective
+        location: Boston, MA
+        start_date: 2024-06
+        end_date: 2024-08
+        highlights:
+          - Improved database integrity through implementation
+            of Lambda
+      - company: MIT Plasma Science and Fusion Center
+        position: Student Researcher
+        location: Cambridge, MA
+        start_date: 2024-02
+        end_date: present
+        highlights:
+          - Training a performant, interpretable image segmentation model 
+            for materials analysi with human-level accuracy through novel
+            combination of linear genetic progrmaming, fixed-point programming
+          - Member of second cohort of [Fusion Undergraduate Scholars](https://www.psfc.mit.edu/fusars) program
+      - company: MIT D-Lab
+        position: Student Engineer
+        location: Cambridge, MA
+        start_date: 2023-09
+        end_date: 2023-12
+        highlights:
+          - led re-write of interactive EN-ROADS-inspired dashboard for
+            understanding the climate effects of MIT's HVAC systems
+          - implemented procedure for robustly enforcing code readability, portability
+          - taught Git, Poetry to numerous team members as part of onboarding
+      - company: Streamforge
+        position: Assistant to Head of Engineering
+        location: Montreal, Quebec
+        start_date: 2023-06
+        end_date: 2023-08
+        highlights:
+          - Designed and implemented numerous exploratory LLM-based products for
+            clients for clients to gain better insight on advertising effectiveness
+          - Reverse-engineered TikTok web API to implement new collection of
+            data collection microservices
+    presentations:
+      - name: '"Using Human-Interpretable Machine Learning to Automate Materials Analysis"'
+        date: 2024-05
+        highlights:
+          - presented at [AM2F 2024](https://sites.google.com/view/am2fworkshop2024/home)
+          - shared methods, preliminary results of PSFC computer vision research
+    technologies:
+      - label: Languages
+        details: Python, JavaScript, TypeScript, SQL, Rust, Java, C, MATLAB
+      - label: Technologies
+        details: Linux, Windows, SQLite, Git, Google Workspaces, Microsoft Office
+design:
+  theme: classic
+  font: Source Sans 3
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_external_link_icons: false
+  disable_page_numbering: false
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: false
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 30 pt
+  text_alignment: justified
+  seperator_between_connections: ''
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+      education_degree_width: 1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  show_timespan_in:
+    - Experience

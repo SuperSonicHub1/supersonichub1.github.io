@@ -1,4 +1,5 @@
 - All written content unless stated otherwise is CC BY-SA 4.0. <https://creativecommons.org/licenses/by-sa/4.0/>
 - All code, including in written content (unless otherwise stated), is under the Unlicense. <https://unlicense.org/>
-- `site/css/prism.min.css` is MIT-licensed. <https://spdx.org/licenses/MIT.html> Copyright (c) 2012 Lea Verou.
+- `site/css/prism.min.css` is MIT-licensed. <https://spdx.org/licenses/MIT.html> Copyright (C) 2012 Lea Verou.
 - `site/css/asciidoctor.css` is MIT-licensed. <https://spdx.org/licenses/MIT.html> Copyright (C) 2014-2020 Dan Allen, Guillaume Grossetie, Anthonny Quérouil and the Asciidoctor Project.
+- `site/resume/{classic,markdown}/*` is MIT-licensed. <https://spdx.org/licenses/MIT.html> Copyright (C) 2023- present Sina Atalay and individual contributors.

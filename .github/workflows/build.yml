@@ -17,6 +17,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
@@ -24,6 +28,7 @@ jobs:
 
       - name: Install dependencies & build
         run: |
+          pip install rendercv==1.12
           npm ci
           npm run build          
 
