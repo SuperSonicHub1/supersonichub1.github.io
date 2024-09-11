@@ -35,8 +35,8 @@ cv:
         end_date: present
         highlights:
           - Training a performant, interpretable image segmentation model 
-            for materials analysi with human-level accuracy through novel
-            combination of linear genetic progrmaming, fixed-point programming
+            for materials analysis with human-level accuracy through novel
+            combination of linear genetic progrmaming, streams-vased programming
           - Member of second cohort of [Fusion Undergraduate Scholars](https://www.psfc.mit.edu/fusars) program
       - company: MIT D-Lab
         position: Student Engineer
@@ -58,12 +58,6 @@ cv:
             clients for clients to gain better insight on advertising effectiveness
           - Reverse-engineered TikTok web API to implement new collection of
             data collection microservices
-    presentations:
-      - name: '"Using Human-Interpretable Machine Learning to Automate Materials Analysis"'
-        date: 2024-05
-        highlights:
-          - presented at [AM2F 2024](https://sites.google.com/view/am2fworkshop2024/home)
-          - shared methods, preliminary results of PSFC computer vision research
     technologies:
       - label: Languages
         details: Python, JavaScript, TypeScript, SQL, Rust, Java, C, MATLAB
@@ -77,7 +71,7 @@ design:
   color: '#004f90'
   disable_external_link_icons: false
   disable_page_numbering: false
-  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  page_numbering_style: "" # NAME - Page PAGE_NUMBER of TOTAL_PAGES
   disable_last_updated_date: false
   last_updated_date_style: Last updated in TODAY
   header_font_size: 30 pt
