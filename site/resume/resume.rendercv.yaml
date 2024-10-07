@@ -2,7 +2,7 @@
 cv:
   name: Kyle Anthony Williams
   location: Brooklyn, NY; Cambridge, MA
-  email: kyle.anthony.williams2@gmail.com
+  email: kawcco@mit.edu
   website: https://kawcco.com/
   social_networks:
     - network: GitHub
@@ -17,8 +17,7 @@ cv:
       - institution: Massachusetts Institute of Technology
         area: Electrical Engineering and Computer Science (Canidate)
         degree: BS
-        start_date: 2023-09
-        end_date: present
+        end_date: 2027-05
     experience:
       - company: Amazon Web Services
         position: Software Development Engineer Intern, Amazon Detective
@@ -54,8 +53,8 @@ cv:
         start_date: 2023-06
         end_date: 2023-08
         highlights:
-          - Designed and implemented numerous exploratory LLM-based products for
-            clients for clients to gain better insight on advertising effectiveness
+          - Designed and implemented numerous exploratory LLM-based products so
+            clients could gain better insight on advertising effectiveness
           - Reverse-engineered TikTok web API to implement new collection of
             data collection microservices
     technologies:
