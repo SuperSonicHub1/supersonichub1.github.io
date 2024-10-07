@@ -19,14 +19,6 @@ cv:
         degree: BS
         end_date: 2027-05
     experience:
-      - company: Amazon Web Services
-        position: Software Development Engineer Intern, Amazon Detective
-        location: Boston, MA
-        start_date: 2024-06
-        end_date: 2024-08
-        highlights:
-          - Improved database integrity through implementation
-            of Lambda
       - company: MIT Plasma Science and Fusion Center
         position: Student Researcher
         location: Cambridge, MA
@@ -37,6 +29,14 @@ cv:
             for materials analysis with human-level accuracy through novel
             combination of linear genetic programming, streams
           - Member of second cohort of [Fusion Undergraduate Scholars](https://www.psfc.mit.edu/fusars) program
+      - company: Amazon Web Services
+        position: Software Development Engineer Intern, Amazon Detective
+        location: Boston, MA
+        start_date: 2024-06
+        end_date: 2024-08
+        highlights:
+          - Improved database integrity through implementation
+            of Lambda
       - company: MIT D-Lab
         position: Student Engineer
         location: Cambridge, MA
