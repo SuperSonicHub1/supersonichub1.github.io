@@ -44,10 +44,10 @@ cv:
         start_date: 2023-09
         end_date: 2023-12
         highlights:
-          - led re-write of interactive EN-ROADS-inspired dashboard for
+          - Led re-write of interactive EN-ROADS-inspired dashboard for
             understanding the climate effects of MIT's HVAC systems
-          - implemented procedure for robustly enforcing code readability, portability
-          - taught Git, Poetry to numerous team members as part of onboarding
+          - Implemented procedure for robustly enforcing code readability, portability
+          - Taught Git, Poetry to numerous team members as part of onboarding
       - company: Streamforge
         position: Assistant to Head of Engineering
         location: Montreal, Quebec
