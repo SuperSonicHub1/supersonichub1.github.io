@@ -43,3 +43,19 @@ nav a {
 .tags a {
 	color: inherit;
 }
+
+summary {
+	display: list-item !important;
+}
+
+summary::-webkit-details-marker {
+	display: initial;
+}
+
+/* Webring */
+
+section#webring {
+	display: flex;
+	justify-content: space-between;
+	/* width: 100vw; */
+}

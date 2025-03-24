@@ -56,6 +56,8 @@ module.exports = eleventyConfig => {
 	eleventyConfig.addPassthroughCopy(`${input}/css`)
 	// Copy media
 	eleventyConfig.addPassthroughCopy(`${input}/media`)
+	eleventyConfig.addPassthroughCopy(`${input}/webring.json`)
+	eleventyConfig.addPassthroughCopy(`${input}/webring.js`)
 	// Copy résumé
 	// eleventyConfig.addPassthroughCopy(`${input}/resume.pdf`)
 	

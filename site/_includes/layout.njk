@@ -7,6 +7,8 @@
 		<link rel="stylesheet" type="text/css" href='/css/asciidoctor.css' />
 		<link rel="stylesheet" type="text/css" href='/css/prism.min.css' />
 		<link rel="alternate" type="application/atom+xml" href="/weblog/feed.xml" title="The Weblog of KAWCCO" />
+		<link rel="prefetch" href="/webring.json" />
+		<script type="module" src="/webring.js" ></script>
 		<title>{{ title }} | KAWCCO</title>
 	</head>
 	<body>
@@ -51,6 +53,11 @@
 				All content, unless otherwise stated, by Kyle Anthony Williams, copyright $CURRENT_YEAR,
 				and licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
 			</p>
+			<section id="webring">
+				<webring-previous></webring-previous>
+				<webring-list></webring-list>
+				<webring-next></webring-next>
+			</section>
 		</footer>
 	</body>
 </html>
