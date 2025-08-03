@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/sinaatalay/rendercv/main/schema.json
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v1.12/schema.json
 cv:
   name: Kyle Anthony Williams
   location: Brooklyn, NY; Cambridge, MA
@@ -12,12 +12,18 @@ cv:
   sections:
     introduction:
       - Kyle Anthony Williams (he/him/his) is (primarily) a computer scientist,
-        currently studying CS at the Massachusetts Institute of Technology.
+        currently studying electrical engineering, CS, and music technology at
+        the Massachusetts Institute of Technology.
     education:
       - institution: Massachusetts Institute of Technology
         area: Electrical Engineering and Computer Science (Canidate)
         degree: BS
         end_date: 2027-05
+    publications:
+      - title: Optimization of Precipitate Segmentation Through Linear Genetic Programming of Image Processing (in preparation)
+        authors:
+          - "**K. A. Williams**"
+          - A. H. Seltzman
     experience:
       - company: MIT Plasma Science and Fusion Center
         position: Student Researcher
@@ -27,16 +33,26 @@ cv:
         highlights:
           - Training a performant, interpretable image segmentation model 
             for materials analysis with human-level accuracy through novel
-            combination of linear genetic programming, streams
-          - Member of second cohort of [Fusion Undergraduate Scholars](https://www.psfc.mit.edu/fusars) program
+            implementation of linear genetic Programming
+          - Member of second cohort of [Fusion Undergraduate Scholars](https://www-new.psfc.mit.edu/fusars) program
+          - Presented posters, presentations at AM2F 2024, [SOFE 2025](https://plasmafusion.eventsair.com/sofe2025),
+            and [AM2F 2025](https://am2f2025.psfc.mit.edu/)
+      - company: Amazon Web Services
+        position: Software Development Engineer Intern, Amazon Detective/Security Hub
+        location: Boston, MA
+        start_date: 2025-06
+        end_date: 2025-08
+        highlights:
+          - Designed and implemented vertical slice for letting customers search for software on their machines
+          - Learned various AWS technologies, including Glue, OpenSearch Service, Smithy
       - company: Amazon Web Services
         position: Software Development Engineer Intern, Amazon Detective
         location: Boston, MA
         start_date: 2024-06
         end_date: 2024-08
         highlights:
-          - Improved database integrity through implementation
-            of Lambda
+          - Improved database integrity through implementation of Lambda function
+          - Learned various AWS technologies, including DynamoDB, CDK, EventBridge
       - company: MIT D-Lab
         position: Student Engineer
         location: Cambridge, MA
@@ -47,21 +63,11 @@ cv:
             understanding the climate effects of MIT's HVAC systems
           - Implemented procedure for robustly enforcing code readability, portability
           - Taught Git, Poetry to numerous team members as part of onboarding
-      - company: Streamforge
-        position: Assistant to Head of Engineering
-        location: Montreal, Quebec
-        start_date: 2023-06
-        end_date: 2023-08
-        highlights:
-          - Designed and implemented numerous exploratory LLM-based products so
-            clients could gain better insight on advertising effectiveness
-          - Reverse-engineered TikTok web API to implement new collection of
-            data collection microservices
     technologies:
       - label: Languages
-        details: Python, JavaScript, TypeScript, SQL, Rust, Java, C, MATLAB
+        details: Python, JavaScript, TypeScript, Java, SQL, Rust, MATLAB, C
       - label: Technologies
-        details: Linux, Windows, SQLite, Git, Google Workspaces, Microsoft Office
+        details: Linux, Windows, SQLite, OpenSearch, Git, Google Workspaces, Microsoft Office, AWS Lambda, AWS Glue
 design:
   theme: classic
   font: Source Sans 3
