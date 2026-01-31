@@ -9,11 +9,11 @@ image::/media/about/profile.jpg[A sepia-toned self-portrait of me; I'm sitting d
 
 Here are a few things you may want to know about me:
 
-* I am male, a man, and go by he/him/his pronouns.
-* I intend to study electrical engineering and computer science at
-the Massachusetts Institute of Technology and graduate with a Master
-of Engineering in June 2028.
+* I go by he/him/his pronouns.
+* I study electrical engineering and computer science at
+the Massachusetts Institute of Technology, and plan to graduate with a Bachelors
+of Science in May 2027.
 * My main interests in no particular order include computer science,
 mathematics, physics, linguistics, music theory, and creative writing.
 * For fun, I like playing video games, reading books, brainstorming
-large software projects, and aimlesslessy walking down city roads.
+large software projects, and aimlessly walking down city roads.
