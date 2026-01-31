@@ -1,8 +1,0 @@
----
-override:tags: []
----
-= Media Consumption
-
-What my mind eats.
-
-For now, I link only to my link:./bandcamp/[Bandcamp collection].

@@ -30,6 +30,7 @@ module.exports = eleventyConfig => {
 			.use(markdownItFootnote)
 	)
 
+	// HACK: *Very* dependent on file location
 	eleventyConfig.addTemplateFormats("rendercv.yaml")
 	eleventyConfig.addExtension(
 		"rendercv.yaml",
