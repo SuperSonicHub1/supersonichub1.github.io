@@ -4,7 +4,10 @@ const pluginRss = require("@11ty/eleventy-plugin-rss"),
 	markdownIt = require("markdown-it"),
 	markdownItFootnote = require("markdown-it-footnote")
 
-
+/**
+ * @param {import("@11ty/eleventy/src/UserConfig")} eleventyConfig
+ * @returns {ReturnType<import("@11ty/eleventy/src/defaultConfig")>}
+ */
 module.exports = eleventyConfig => {
 	const input = 'site'
 	const output = "_output"
