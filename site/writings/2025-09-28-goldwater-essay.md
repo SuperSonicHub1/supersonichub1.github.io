@@ -9,7 +9,7 @@ tags:
 ---
 
 *The following was written in a bid for the 2026 [Goldwater Scholarship](https://goldwaterscholarship.gov/).*
-*I unfortunately didn't survive MIT's application process, but I did get to opportunity to write about an idea I've had for a while now about what the future of programming language theory might look like.*
+*I unfortunately didn't survive MIT's application process, but I did get the opportunity to write about an idea I've had for a while now: about what the future of programming language theory might look like.*
 
 ---
 
