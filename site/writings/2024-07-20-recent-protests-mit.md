@@ -2,12 +2,14 @@
 title: Some Notes on Recent Protests at MIT
 tags:
   - politics
+  - ethics
+  - "class:24.134"
 ---
 
 *This is an essay I wrote during summer 2024 as part of the MIT class [24.134: Experiential Ethics](https://elo.mit.edu/experiential-ethics/).*
 *It tries to take a holistic and historical look at why student protesting at MIT, despite popular belief by protestors themselves, has not significantly disrupted my school's participation in the military-industrial complex.*
 
-*If you'd like a briefer version, you should read [the poster](/media/writings/2024-07-20-recent-protests-mit/7poster.pdf) I made to coincide with this work.*
+*If you'd like a briefer version, you should read [the poster](/media/writings/2024-07-20-recent-protests-mit/poster.pdf) I made to coincide with this work.*
 *You can also read an earlier version of this essay online in [the *Tech*](https://thetech.com/2024/09/19/philosophy-of-recent-protests), albeit the table isn't formatted quite right.*
 *Some comments online were insightful.*
 
